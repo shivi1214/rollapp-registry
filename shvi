@@ -1,0 +1,24 @@
+	
+chainId	"shivi_2210827-1"
+chainName	"shivi"
+rpc	"https://rollappevm-26657-shivi.bk7bbm.oss-acorn.io"
+rest	"https://rollappevm-1317-shivi.bk7bbm.oss-acorn.io"
+bech32Prefix	"ethm"
+currencies	
+0	
+decimals	18
+logo	"/logos/astr_5582039992-1.png"
+type	"main"
+coinType	60
+logo	"/logos/astr_5582039992-1.png"
+ibc	
+hubChannel	""
+timeout	172800000
+channel	"channel-0"
+evm	
+chainId	"0x21bc0b"
+rpc	"https://rollappevm-8545-shivi.bk7bbm.oss-acorn.io"
+type	"RollApp"
+da	"celestia"
+analytics	true
+rewards	true
